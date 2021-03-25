@@ -1,9 +1,7 @@
 [package]
-name = "packchain"
+name = {PROJECT NAME}
 version = "0.1.0"
-authors = ["postrex <post-rex@pm.me>"]
+authors = [{AUTHOR}]
 edition = "2018"
 
 [dependencies]
-tokio-stream = "0.1.5"
-bytes = "1.0.1"
