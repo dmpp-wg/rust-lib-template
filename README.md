@@ -1,1 +1,1 @@
-# packchain
+# {PROJECT NAME}
